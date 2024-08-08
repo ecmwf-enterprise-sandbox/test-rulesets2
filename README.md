@@ -1,3 +1,4 @@
 # pr-test
 
 foobar
+baz
